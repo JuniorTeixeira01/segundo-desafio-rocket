@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    flex-direction: row;
+    background: black;
+}
+header{
+    width: 600px;
+}
+.header_imagem{
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 400px;
+}
+.header_titulo{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: rgb(25, 199, 25);
+}
+.header_descricao{
+    padding-left: 20px;
+    color: white;
+}
+
+.header_link{
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+label{
+    padding-left: 20px;
+    color: white;
+}
+input{
+    position: absolute;
+    width: 630px;
+    height: 40px;
+    margin-left: 20px;
+}
+.input_enviar{
+    width: 49px;
+    height: 47px;
+    background: rgb(118, 22, 156);
+    margin-left: 657px;
+}
+
+.header_Input-imagem-setinha{
+    margin-left: 30px;
+    background: rgb(214, 170, 214);
+}
+.main_imagem-maior{
+    width: 730px;
+    height: 800px;
+}
